@@ -1,4 +1,4 @@
-# section-C
+
 #str.lower() method
 this string method is used to convert all the text in a string to a lowercase
 #str.upper()
