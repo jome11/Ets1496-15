@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-x="The Text"
-lower_text=x.lower()
-print(lower_text) #output is "the text"
-=======
+
 x="The Text"
 lower_text=x.lower()
 print(lower_text) #output is "the text"
