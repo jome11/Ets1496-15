@@ -17,3 +17,9 @@ is a type of string method which acts as a Boolean and returns true if the argum
 is a type of string method which acts as a Boolean and returns true if the argument inserted in the brackets is the letter or letters the string ends with
 #str.swapcase()
 is a type of string methos that swaps the case of the string to upper case if the string is originally lower case and vis versa 
+#str.encode()
+is a type of string method that is used to encode a string into bytes using a specified encode scheme 
+#str.replace()
+is a type of string method that is used to replace a specific word in the string 
+#str.find()
+is a type of string method that is used to find a specific word in the string and prints the index it is at
