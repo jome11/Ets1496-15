@@ -23,3 +23,10 @@ is a type of string method that is used to encode a string into bytes using a sp
 is a type of string method that is used to replace a specific word in the string 
 #str.find()
 is a type of string method that is used to find a specific word in the string and prints the index it is at
+#str.isalpha()
+is a type of string method that checks if the all character in the string are alphabetical
+#str.isdigit()
+is a type of string method that checks if all characters in the string are digits
+#str.lstrip()
+is a type of string method that removes the whitespace at the end of the string from the string 
+
