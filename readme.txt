@@ -29,4 +29,10 @@ is a type of string method that checks if the all character in the string are al
 is a type of string method that checks if all characters in the string are digits
 #str.lstrip()
 is a type of string method that removes the whitespace at the end of the string from the string 
+#str.join()
+method in Python is used to join elements of an iterable (like a list or tuple) into a single string, using the given string as a separator between elements.
+#len() function in Python is used to find the number of items in an object, such as a string, list, tuple, dictionary, or other iterable.
+#f-strings
+(formatted string literals) are a modern and efficient way to format strings in Python. They were introduced in Python 3.6 and allow us to embed expressions inside string literals using curly braces {}
+
 
