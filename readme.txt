@@ -34,5 +34,13 @@ method in Python is used to join elements of an iterable (like a list or tuple) 
 #len() function in Python is used to find the number of items in an object, such as a string, list, tuple, dictionary, or other iterable.
 #f-strings
 (formatted string literals) are a modern and efficient way to format strings in Python. They were introduced in Python 3.6 and allow us to embed expressions inside string literals using curly braces {}
+#list.remove
+is a list operation that removes the specified element from the list
+#list.insert
+inserts a specific item at a specified index in the list
+#list.append
+insert an element in to the list unlike the insert method it does not modify the existing list it creates a new one 
+#list.slice
+slices the list and prints a specific number of element from the specified beginning and end at a specific iteation  
 
 
