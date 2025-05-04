@@ -41,6 +41,14 @@ inserts a specific item at a specified index in the list
 #list.append
 insert an element in to the list unlike the insert method it does not modify the existing list it creates a new one 
 #list.slice
-slices the list and prints a specific number of element from the specified beginning and end at a specific iteation  
+slices the list and prints a specific number of element from the specified beginning and end at a specific iteation 
+# dict.clear()
+Removes all items from the dictionary, making it empty. 
+# dict.update()
+Updates the dictionary with key-value pairs from another dictionary .
+# dictr.fromkeys()
+Creates a new dictionary from a sequence of keys, all assigned the same value.
+# dicr.items()
+Returns a view object that displays a list of a dictionary’s key-value pairs. Useful for looping through a dictionary.
 
 
